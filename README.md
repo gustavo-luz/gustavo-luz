@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 Stats about my github
 
 
+
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-luz&show_icons=true&theme=nightowl)
 
 
@@ -28,3 +29,6 @@ Stats about my github
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/gustavo-luz-unb/
+
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-luz&repo=github-readme-stats)
