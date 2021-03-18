@@ -31,4 +31,3 @@ Stats about my github
 [linkedin]: https://www.linkedin.com/in/gustavo-luz-unb/
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavo-luz&repo=github-readme-stats)
