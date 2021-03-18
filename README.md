@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 Stats about my github
 
 
-[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-luz&show_icons=true&theme=nightowl)]
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-luz&show_icons=true&theme=nightowl)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-luz&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-luz&layout=compact)
 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
