@@ -30,4 +30,4 @@ Stats about my github
 
 [linkedin]: https://www.linkedin.com/in/gustavo-luz-unb/
 
-
+![Snake animation](https://github.com/gustavo-luz/gustavo-luz/blob/output/github-contribution-grid-snake.svg)
