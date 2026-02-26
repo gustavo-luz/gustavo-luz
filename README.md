@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a Production Engineer & PhD Student in Computer Science working at the intersection of Artificial Intelligence, IoT, Product Development, and Digital Health.
 
 <!--
 **gustavo-luz/gustavo-luz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 Stats about my github
@@ -32,4 +33,4 @@ Stats about my github
 
 ![Snake animation](https://github.com/gustavo-luz/gustavo-luz/blob/output/github-contribution-grid-snake.svg)
 
-_Snake game generated with [Platane/snk](https://github.com/Platane/snk)_
+
